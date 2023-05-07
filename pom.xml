@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>ru.netology</groupId>
-    <artifactId>filesCSV-XML-JSON</artifactId>
+    <artifactId>Task5_filesCSV-XML-JSON</artifactId>
     <version>1.0-SNAPSHOT</version>
 
     <properties>
